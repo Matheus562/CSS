@@ -1,0 +1,31 @@
+/*   * {
+   tipo '*' seleciona todos os elementos do doc e aplica o estilo
+  border: 2px solid;
+} 
+*/
+
+/* seletor de decendencia, troca as cores dos links dentro do li
+li a {
+  color: red;
+}*/
+
+/*
+ seletor filho, troca as cores dos links filhos do li
+li > a {
+  color: purple;
+}*/
+
+/*seletor adjacente.Estiliza o h4 depois do h1*/
+h1 + h4 {
+  border: 4px dashed;
+}
+
+/*seletor atributo. Busca e estiliza todos os href="/recibo"*/
+a[href="/recibo"] {
+  color: #f00;
+}
+
+/*cor em todos 2º li*/
+li:nth-of-type(2) {
+  color: green;
+}

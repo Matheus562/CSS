@@ -1,0 +1,25 @@
+.orange-text {
+  color: #de7b3a;
+  font-size: 20px;
+}
+
+.big-text {
+  font-size: 60px;
+}
+#europa-text {
+  font-size: 40px;
+  color: violet;
+}
+
+li {
+  color: gray;
+}
+h1 {
+  background-color: antiquewhite;
+  border: 10px solid #6a3512;
+}
+body {
+  background-image: url("https://s1.static.brasilescola.uol.com.br/be/2020/11/luas-jupiter.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}

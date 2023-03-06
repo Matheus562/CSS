@@ -1,0 +1,20 @@
+p {
+  font-family: "Roboto", Arial, sans-serif;
+  font-size: 15px;
+  font-weight: 500; /*intensidade negrito fonte*/
+  line-height: 2; /* distanciamento entre as linhas*/
+}
+
+h1 {
+  /*text-align: center; posiciona os elementos*/
+  text-decoration: underline;
+  font-family: "Geostar", cursive;
+  /*margin-top: 40px;
+  margin-left: 250px;
+  margin-bottom: 50px;*/
+  margin: 100px auto 100px auto;
+  width: 15%;
+  border: 3px solid #ff0000;
+
+  padding: 90px;
+}
